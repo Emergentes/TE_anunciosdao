@@ -8,6 +8,7 @@ import java.util.logging.Logger;
 
 
 public class ConexionBD {
+    // Parametros para la conexion a la base de datos
     static public String url = "jdbc:mysql://localhost:3306/bd_anuncios";
     static public String usuario = "root";
     static public String password = "";
